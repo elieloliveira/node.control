@@ -1,0 +1,25 @@
+{
+  "name": "control",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elieloliveira/node.control.git"
+  },
+  "keywords": [
+    "control"
+  ],
+  "author": "elielfranca90",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elieloliveira/node.control/issues"
+  },
+  "homepage": "https://github.com/elieloliveira/node.control#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
